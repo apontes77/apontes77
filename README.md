@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-  🦄 Skills: <strong>Java, Spring Framework, .NET, HTML, CSS, JavaScript, Bootstrap, Angular, Node, Typescript, PostgreSQL, Docker, Apache Kafka, RabbitMQ</strong>
+  🦄 Skills: <strong>Java, Spring Framework, HTML, CSS, JavaScript, Bootstrap, Angular, Node, Typescript, PostgreSQL, Docker, Apache Kafka, RabbitMQ</strong>
 </p>
 
 <p align="left">
