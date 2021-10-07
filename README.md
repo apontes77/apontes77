@@ -3,11 +3,11 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador alexandre">
 
 <p align="left">
-  Hello! My name is Alexandre, I'm a <strong>Back end</strong> developer.
+  Hello! My name is Alexandre Queiroz, I'm a <strong>Back-end</strong> Engineer.
 </p>
 
 <p align="left">
-  🦄 Skills: <strong>Java, Spring Framework, HTML, CSS, JavaScript, Angular, Node, Typescript, PostgreSQL, Docker etc</strong>
+  🦄 Skills: <strong>Java, Spring Framework, JPA, SQL, Docker, Kubernetes</strong>
 </p>
 
 <p align="left">
