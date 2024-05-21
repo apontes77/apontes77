@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  🦄 Skills: <strong>Java, Spring Framework, JPA, SQL, Docker, Kubernetes</strong>
+  🦄 Skills: <strong>Java, Kotlin, Golang, Spring Framework, JPA, SQL, Docker, Kubernetes, AWS</strong>
 </p>
 
 <p align="left">
